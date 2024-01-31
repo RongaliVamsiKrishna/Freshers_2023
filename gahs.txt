@@ -1,4 +1,8 @@
 sdjfkahfdlkdsjf
+<<<<<<< HEAD
 
 this is 3rd line
 
+=======
+second line.
+>>>>>>> 8f94796d3a83433cb2658c6be6233723c219d6d5
